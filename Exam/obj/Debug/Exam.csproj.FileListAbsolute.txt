@@ -1,0 +1,12 @@
+C:\Users\mysti\source\repos\Exam\Exam\bin\Debug\Exam.exe.config
+C:\Users\mysti\source\repos\Exam\Exam\bin\Debug\Exam.exe
+C:\Users\mysti\source\repos\Exam\Exam\bin\Debug\Exam.pdb
+C:\Users\mysti\source\repos\Exam\Exam\obj\Debug\Exam.csproj.AssemblyReference.cache
+C:\Users\mysti\source\repos\Exam\Exam\obj\Debug\Exam.csproj.SuggestedBindingRedirects.cache
+C:\Users\mysti\source\repos\Exam\Exam\obj\Debug\Exam.Properties.Resources.resources
+C:\Users\mysti\source\repos\Exam\Exam\obj\Debug\Exam.csproj.GenerateResource.cache
+C:\Users\mysti\source\repos\Exam\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+C:\Users\mysti\source\repos\Exam\Exam\obj\Debug\Exam.exe
+C:\Users\mysti\source\repos\Exam\Exam\obj\Debug\Exam.pdb
+C:\Users\mysti\source\repos\Exam\Exam\obj\Debug\Exam.Views.CoursesForm.resources
+C:\Users\mysti\source\repos\Exam\Exam\obj\Debug\Exam.Views.MainForm.resources
